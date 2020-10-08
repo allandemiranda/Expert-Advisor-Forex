@@ -16,15 +16,15 @@ Robô forex para operação no MT5.
 
 Rebuilding do projeto do início do ano.
 
-### Estratégia de Scalping de 1 minuto
+### Estratégia
 
 1. A definir!
 
-### Ponto de entrada para compras na estratégia de scalping de 1 minuto
+### Ponto de entrada para compras
 
 A definir!
 
-### Ponto de entrada para vendas na estratégia de scalping de 1 minuto
+### Ponto de entrada para vendas
 
 Há definir!
 
