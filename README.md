@@ -32,8 +32,8 @@ Há definir!
 
 Nome do modelo|Sobre|Modelo
 -|-|-
-Bug report | Crie um relatório para nos ajudar a melhorar | [bug_report](bug_report.md)
-Feature Request | Sugira uma ideia para este projeto | [feature_request](feature_request.md)
+Bug report | Crie um relatório para nos ajudar a melhorar | [.github/ISSUE_TEMPLATE/bug_report](bug_report.md)
+Feature Request | Sugira uma ideia para este projeto | [.github/ISSUE_TEMPLATE/feature_request](feature_request.md)
 Pull Request | Contribua com correções no projeto | [pull_request](pull_request.md)
 
 ## Documentação
