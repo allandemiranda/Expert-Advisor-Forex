@@ -44,4 +44,4 @@ Sem documentação.
 
 > Copyright (c) 2020 ALLAN DE MIRANDA SILVA
 
-Confira [aqui](LICENSE.md) informações adicionais sobre a licença.
+Confira [aqui](LICENSE) informações adicionais sobre a licença.
